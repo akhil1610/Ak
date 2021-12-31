@@ -8,6 +8,7 @@ import homeObjThree from '../components/InfoSection/Data3';
 import Navbar from '../components/Navbar'
 import Services from '../components/services';
 import Sidebar from '../components/SideBar'
+// import DataFetching from '../components/ApiServices/DataFetching';
 
 const Home = () => {
 
@@ -19,6 +20,7 @@ const Home = () => {
     return (
         <>
             <Sidebar isOpen={isOpen} toggle={toggle} />
+            {/* <DataFetching/> */}
             <Navbar toggle={toggle} />
             <HeroSection />
             <InfoSection  {...homeObjOne} />
