@@ -47,8 +47,8 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/' onClick={toggleHome}>dolla</SocialLogo>
-                        <WebsiteRights>dolla &copy; {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+                        <SocialLogo to='/' onClick={toggleHome}>e-tons</SocialLogo>
+                        <WebsiteRights>e-tons &copy; {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank" aria-label="FaceBook"><FaFacebook /></SocialIconLink>
                             <SocialIconLink href="/" target="_blank" aria-label="Instagram"><FaInstagram /></SocialIconLink>
