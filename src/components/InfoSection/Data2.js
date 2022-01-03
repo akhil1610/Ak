@@ -5,7 +5,7 @@ const homeObjTwo = {
     lightTextDesc : false,
     topLine : 'Unlimited access',
     headline : 'Learn And Grow Your Business',
-    description : ' Get access to our app that allows people to invest their time to grow theit business',
+    description : ' Get access to our app that allows people to invest their time to grow their business',
     buttonLabel : 'learn more',
     imgStart : true,
     img :require('../../images/svg-2.svg').default,

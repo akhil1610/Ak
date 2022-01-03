@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc : true,
     topLine : 'Premium Bank',
     headline : 'Unlimited Transactions with zero fees ',
-    description : 'Get access to our app that allows nothing to people anf us dkcoiacn ',
+    description : 'Get access to our app that allows business to grow in all directions, local as well as global',
     buttonLabel : 'Get started',
     imgStart : false,
     img :require('../../images/svg-3.svg').default,
